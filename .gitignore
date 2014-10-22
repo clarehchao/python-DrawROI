@@ -1,0 +1,9 @@
+# duplicate files
+*~
+
+# distribution / packaging
+env/
+build/
+
+# dir specific 
+extra/
