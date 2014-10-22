@@ -7,3 +7,5 @@ build/
 
 # dir specific 
 extra/
+
+.DS_store
