@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:../DrawROI"
+      name = "DrawROI">
+      <FileRef
+         location = "group:Annotate.py">
+      </FileRef>
+      <FileRef
+         location = "group:Annotate.pyc">
+      </FileRef>
+      <FileRef
+         location = "group:annotateExample.py">
+      </FileRef>
+      <FileRef
+         location = "group:DragRec.py">
+      </FileRef>
+      <FileRef
+         location = "group:DrawROI.py">
+      </FileRef>
+      <FileRef
+         location = "group:gausstest.py">
+      </FileRef>
+      <Group
+         location = "group:ImVolTool"
+         name = "ImVolTool">
+         <FileRef
+            location = "group:ImVolFit.py">
+         </FileRef>
+         <FileRef
+            location = "group:__init__.py">
+         </FileRef>
+         <FileRef
+            location = "group:__init__.pyc">
+         </FileRef>
+         <FileRef
+            location = "group:xyz2vol.py">
+         </FileRef>
+         <FileRef
+            location = "group:xyz2vol.pyc">
+         </FileRef>
+         <FileRef
+            location = "group:xyz2vol.py~">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:ROI.py">
+      </FileRef>
+      <FileRef
+         location = "absolute:AvgSpatialRes.py">
+      </FileRef>
+      <FileRef
+         location = "group:PlotProfile.py">
+      </FileRef>
+      <FileRef
+         location = "group:testAmide.py">
+      </FileRef>
+   </Group>
+</Workspace>
