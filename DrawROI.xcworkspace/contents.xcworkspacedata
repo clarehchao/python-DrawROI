@@ -10,18 +10,28 @@
       <FileRef
          location = "group:Annotate.pyc">
       </FileRef>
-      <FileRef
-         location = "group:annotateExample.py">
-      </FileRef>
-      <FileRef
-         location = "group:DragRec.py">
-      </FileRef>
-      <FileRef
-         location = "group:DrawROI.py">
-      </FileRef>
-      <FileRef
-         location = "group:gausstest.py">
-      </FileRef>
+      <Group
+         location = "group:extra"
+         name = "extra">
+         <FileRef
+            location = "group:annotateExample.py">
+         </FileRef>
+         <FileRef
+            location = "group:DragRec.py">
+         </FileRef>
+         <FileRef
+            location = "group:DrawROI.py">
+         </FileRef>
+         <FileRef
+            location = "group:gausstest.py">
+         </FileRef>
+         <FileRef
+            location = "group:ROI.py">
+         </FileRef>
+         <FileRef
+            location = "group:testAmide.py">
+         </FileRef>
+      </Group>
       <Group
          location = "group:ImVolTool"
          name = "ImVolTool">
@@ -45,16 +55,10 @@
          </FileRef>
       </Group>
       <FileRef
-         location = "group:ROI.py">
-      </FileRef>
-      <FileRef
          location = "absolute:AvgSpatialRes.py">
       </FileRef>
       <FileRef
          location = "group:PlotProfile.py">
-      </FileRef>
-      <FileRef
-         location = "group:testAmide.py">
       </FileRef>
    </Group>
 </Workspace>
